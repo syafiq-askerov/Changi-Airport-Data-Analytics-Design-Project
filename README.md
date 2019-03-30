@@ -1,6 +1,7 @@
 # Syafiq Bashir Design Project
 
 This reposistory consists contents of Syafiq's design project.
+
 **Design project:** Developing an Analytics Interface for Changi Airport by utilising the ELK stack.
 
 The interfaces are displayed on dashboards through usage of an open source data visualization tool called Kibana.
