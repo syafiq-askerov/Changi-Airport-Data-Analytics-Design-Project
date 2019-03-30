@@ -6,7 +6,7 @@ This reposistory consists contents of Syafiq's design project.
 
 The interfaces are displayed on dashboards through usage of an open source data visualization tool called Kibana.
 
-Alt-H1 Dashboard One 
+## Dashboard One 
 
 
 Analysis of Changi Airport Passengers and Air Cargo data. Data displayed in Dashboard one are authentic as datasets are obtained from public data portal in csv format.
