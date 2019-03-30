@@ -23,4 +23,4 @@ Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are arti
 
 The purpose of Dashboard One would be to would be to provide a way for analysis of large data from a nice interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
 
-The purpose of Dashboard Two would be to simulate analysis data from a server as datasets are genrated in near "real-time". The dashboard visuals here will display some indictors if data anlaysed exceed a certain threshold that has been set. An example would be in the event of sudden large amount of flight delays indicator would be displayed within Dashboard Two.
+The purpose of Dashboard Two would be to simulate analysis data from a server as datasets are generated in near "real-time". The dashboard visuals here will display some indictors if data anlaysed exceed a certain threshold that has been set. An example would be in the event of sudden large amount of flight delays, indicators would be displayed within Dashboard Two.
