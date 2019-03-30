@@ -6,7 +6,8 @@ This reposistory consists contents of Syafiq's design project.
 
 The interfaces are displayed on dashboards through usage of an open source data visualization tool called Kibana.
 
-## Dashboard One Alt-H1
+## Dashboard One 
+==========================================================================================================================================
 
 Analysis of Changi Airport Passengers and Air Cargo data. Data displayed in Dashboard one are authentic as datasets are obtained from public data portal in csv format.
 
@@ -17,7 +18,7 @@ https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-
 The purpose of Dashboard one would be to would be to provide analysis of large datasets through a simple interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
 
 ## Dashboard Two
-
+==========================================================================================================================================
 Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets ware obtained from developing a server log generation program in Java.
 
 The purpose of Dashboard One would be to would be to provide a way for analysis of large data from a nice interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
