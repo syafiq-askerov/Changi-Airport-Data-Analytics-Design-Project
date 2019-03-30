@@ -1,6 +1,6 @@
 # Syafiq Bashir Design Project
 
-This reposistory consists contents of Syafiq's design project.
+This reposistory consists of contents from Syafiq's design project.
 
 **Design project:** Developing an Analytics Interface for Changi Airport by utilising the ELK stack.
 
