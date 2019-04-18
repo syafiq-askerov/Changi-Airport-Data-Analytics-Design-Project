@@ -1,4 +1,4 @@
-# Syafiq Bashir Design Project
+# Syafiq Bashir's Design Project
 
 This reposistory consists of contents from Syafiq's design project.
 
