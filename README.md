@@ -19,6 +19,6 @@ The purpose of Dashboard one would be to would be to provide analysis of large d
 
 ## Dashboard Two
 
-Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets ware obtained from developing a server log generation program in Java.
+Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets are obtained from developing a server log generation program in Java.
 
 The purpose of Dashboard Two would be to simulate analysis of data from a server as datasets are generated in near "Real-Time". The dashboard visuals here will display some indictors if data anlaysed exceed a certain threshold that has been set. An example would be in the event of sudden large amount of flight delays, indicators would be displayed within Dashboard Two.
