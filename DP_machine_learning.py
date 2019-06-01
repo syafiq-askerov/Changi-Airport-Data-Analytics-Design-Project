@@ -57,4 +57,4 @@ for i in range(m):
     ss_t += (Y[i] - mean_y) ** 2
     ss_r += (Y[i] - y_pred) ** 2
 r2 = 1 - (ss_r/ss_t)    
-print(r2)
+print(r2) 
