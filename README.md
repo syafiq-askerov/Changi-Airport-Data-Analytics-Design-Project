@@ -25,5 +25,5 @@ Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are arti
 
 The purpose of Dashboard Two would be to simulate analysis of data from a server as datasets are generated in near "Real-Time". The dashboard visuals here will display some indictors if data anlaysed exceed a certain threshold that has been set. An example would be in the event of sudden large amount of flight delays, indicators would be displayed within Dashboard Two.
 
-![Dashboard Two top](https://user-images.githubusercontent.com/47980926/58750636-a7cb7d00-84c7-11e9-9c3a-edf59678757a.JPG)
-![Dashboard Two bottom](https://user-images.githubusercontent.com/47980926/58750638-ab5f0400-84c7-11e9-9b35-b8bf489b837a.JPG)
+![dashboard 2 top ss](https://user-images.githubusercontent.com/47980926/58751127-1232ec00-84cd-11e9-8ba7-fdcc0b526210.JPG)
+![Dashboard Two bottom](https://user-images.githubusercontent.com/47980926/58751135-17903680-84cd-11e9-906d-88043f2aa6e2.JPG)
