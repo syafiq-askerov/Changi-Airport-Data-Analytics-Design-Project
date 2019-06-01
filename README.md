@@ -19,6 +19,8 @@ The purpose of Dashboard one would be to would be to provide analysis of large d
 
 ![Dashboard One with Passanger arrival filter ](https://user-images.githubusercontent.com/47980926/58750591-f298c500-84c6-11e9-8d88-33c0c52d35dc.JPG)
 
+![Dashboard One Loaded cargo and passengers analysis](https://user-images.githubusercontent.com/47980926/58750609-2ecc2580-84c7-11e9-8d7a-98a89c680805.JPG)
+
 ## Dashboard Two
 
 Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets are obtained from developing a server log generation program in Java.
