@@ -14,8 +14,11 @@ Analysis of Changi Airport Passengers and Air Cargo data. Data displayed in Dash
 One example of datasets taken are from:
 https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-country-of-embarkation?resource_id=efd7b75b-992e-4221-aff3-c57140af1f67
 
-
 The purpose of Dashboard one would be to would be to provide analysis of large datasets through a simple interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
+
+![D1 top ss](https://user-images.githubusercontent.com/47980926/58750954-fc242c00-84ca-11e9-910a-dbc580661220.JPG)
+![Dashboard One Loaded cargo and passengers analysis](https://user-images.githubusercontent.com/47980926/58750956-047c6700-84cb-11e9-9193-35b05a26a5c9.JPG)
+
 ## Dashboard Two
 
 Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets are obtained from developing a server log generation program in Java.
