@@ -25,11 +25,17 @@ The purpose of Dashboard one would be to would be to provide analysis of large d
 
 Data displayed in Dashboard Two are artificial as datasets are obtained from developing a data generation program in Java.
 
-The purpose of Dashboard Two would be to simulate analysis of data from a server as datasets are generated in near "Real-Time". The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed. A usecase for Dashboard Two would be for troubleshooting as investigations could be narrowed down to timestamps where datasets have exceeded the threshold value placed. 
+The purpose of Dashboard Two would be to simulate analysis of data from a server as datasets are generated in near "Real-Time". The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed.
+
+A usecase for Dashboard Two would be for troubleshooting as investigations could be narrowed down to timestamps where datasets have exceeded the threshold value placed. 
 
 ![dashboard 2 top ss](https://user-images.githubusercontent.com/47980926/58751127-1232ec00-84cd-11e9-8ba7-fdcc0b526210.JPG)
 ![Dashboard Two bottom](https://user-images.githubusercontent.com/47980926/58751135-17903680-84cd-11e9-906d-88043f2aa6e2.JPG)
 
 ## Machine learning 
 
-Linear Regression Algorithm is used in Python for predictive analysis to forecast Changi Airport's 2019 air cargo loaded data based on auhentic datasets of air cargo loaded from years ranging between 2014 to 2018. Datasets of air cargo loaded from years ranging between 2014 to 2018 are obtained from data.gov.sg. The Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.The Visual below is developed by utilizing Jupyter Notebook.
+Linear Regression Algorithm is used in Python for predictive analysis to forecast Changi Airport's 2019 air cargo loaded data based on auhentic datasets of air cargo loaded from years ranging between 2014 to 2018. Datasets of air cargo loaded from years ranging between 2014 to 2018 are obtained from data.gov.sg.
+
+The Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.The Visual below is developed by utilizing Jupyter Notebook.
+
+![Machine learning](https://user-images.githubusercontent.com/47980926/58751594-13671780-84d3-11e9-8677-05ad32e46bb2.JPG)
