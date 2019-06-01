@@ -17,6 +17,8 @@ https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-
 
 The purpose of Dashboard one would be to would be to provide analysis of large datasets through a simple interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
 
+![Dashboard One with Passanger arrival filter ](https://user-images.githubusercontent.com/47980926/58750591-f298c500-84c6-11e9-8d88-33c0c52d35dc.JPG)
+
 ## Dashboard Two
 
 Analysis of Changi Airport Airline data.Data displayed in Dashboard Two are artificial as datasets are obtained from developing a server log generation program in Java.
