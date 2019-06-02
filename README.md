@@ -2,7 +2,7 @@
 
 This reposistory consists of contents from Syafiq's design project.
 
-**Design project:** Developing an Analytics Interface for Changi Airport by utilising open source tools of ELK Stack and Jupyter Notebook.
+**Design project:** Developing an Analytics Interface for Changi Airport by utilising open source tools namely ELK Stack and Jupyter Notebook.
 
 Dashboard One and Dashboard Two are developed using three open source tools namely Elasticsearch,Logstash and Kibana(ELK Stack) for the purpose of data visualizations and analytics.
 
