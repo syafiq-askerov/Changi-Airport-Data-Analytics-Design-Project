@@ -2,7 +2,7 @@
 
 This reposistory consists of contents from Syafiq's design project.
 
-**Design project:** Developing an Data analysis Interface for Changi Airport.
+**Design project:** Developing a Data Analysis Interface for Changi Airport.
 Elasticsearch, Logstash, Kibana and Jupyter Notebook are the four Open-source tools are used for this project. 
 
 Dashboard One and Dashboard Two are developed using three Open-source tools namely Elasticsearch,Logstash and Kibana(ELK Stack) for the purpose of data visualizations and analysis.
