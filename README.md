@@ -29,14 +29,14 @@ Data displayed in Dashboard Two are artificial as datasets are obtained from dev
 
 The purpose of Dashboard Two would be to simulate analysis of near "Real-Time" datsets. The key feature of Dashboard Two would be to provide the end user with a clear visual representation of datasets that have exceeded threshold limits. The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed.
 
-Dashboard Two could function as a threshold alert system as troubleshooting could be narrowed down to timestamps where datasets have exceeded the threshold values placed. 
+Dashboard Two could function as a threshold alert system as troubleshooting could be narrowed down to timestamps where datasets have exceeded the threshold values that are being placed.
 
 ![dashboard 2 top ss](https://user-images.githubusercontent.com/47980926/58751127-1232ec00-84cd-11e9-8ba7-fdcc0b526210.JPG)
 ![Dashboard Two bottom](https://user-images.githubusercontent.com/47980926/58751135-17903680-84cd-11e9-906d-88043f2aa6e2.JPG)
 
 ## Machine learning 
 
-Supervised Machine Learning through usage of Linear Regression Algorithm is utlised for predictive analysis of Changi Airport's air cargo datasets. Air cargo data in the year 2019 is forecasted based on datasets of air cargo from years ranging between 2014 to 2018. Authentic datasets of air cargo loaded from years ranging between 2014 to 2018 were obtained from data.gov.sg.
+Supervised Machine Learning through usage of Linear Regression Algorithm is utlised for predictive analysis of Changi Airport's air cargo datasets. Air cargo data in the year 2019 are forecasted based on datasets of air cargo from years ranging between 2014 to 2018. Authentic datasets of air cargo loaded from years ranging between 2014 to 2018 were obtained from data.gov.sg.
 
 ![regression lines](https://user-images.githubusercontent.com/47980926/62994977-329a0200-be91-11e9-9d74-ccb448d65aef.JPG)
 
@@ -48,7 +48,7 @@ After calculation of the slope of Regression line is done, the Y-intercept calcu
 
 In order to first calculate the Y-intercept of the Regression line, y and x are taken to be mean values from the dependent and independent variable respectively. After the Y-intercept is calculated, the slope and Y-intercept values will be a constant in the equation of a straight line and varying independent variable values will be substituted in the equation to solve for Regression line values
 
-Programming in Python is done with the usage of NumPy, matplotlib and Pandas libraries for computing and plotting purposes. The Regression Line output is displayed through usage of Jupyter Notebook, the Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.
+Programming in Python is done with the usage of NumPy, matplotlib and Pandas libraries for computing and plotting purposes. The Regression Line output is displayed through usage of Jupyter Notebook, the Regression line(in green) is taken as the forcasted value of air cargo loaded in 2019.
 
 ![Machine learning](https://user-images.githubusercontent.com/47980926/58751594-13671780-84d3-11e9-8677-05ad32e46bb2.JPG)
 
