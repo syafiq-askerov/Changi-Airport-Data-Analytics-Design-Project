@@ -13,7 +13,7 @@ Jupyter Notebook is used as the Machine Learning tool for predictive analysis by
 
 ## Dashboard One 
 
-Dashboard One portrays data analysis of Changi Airport’s passengers population and air cargo data over a period of five years from several countries. Data displayed in Dashboard one are authentic as datasets are obtained from public data portal in CSV format.There are an estimated amount of 4000 thousand rows consisting of air cargo loaded in tonnes information and 7000 rows of passenger’s arrival by country information data in CSV format that are loaded into Elasticsearch. 
+Dashboard One portrays data analysis of Changi Airport’s passengers population and air cargo data over a period of five years from several countries. Data displayed in Dashboard one are authentic as datasets are obtained from public data portal in CSV format.There are an estimated amount of 4000 rows consisting of air cargo loaded in tonnes information and 7000 rows of passenger’s arrival by country information data in CSV format that are loaded into Elasticsearch. 
 
 An example of datasets source:
 https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-country-of-embarkation?resource_id=efd7b75b-992e-4221-aff3-c57140af1f67
