@@ -42,13 +42,19 @@ Supervised Machine Learning through usage of Linear Regression Algorithm is utli
 
 The variable “x” and “y” represents datasets in the independent and dependent axis respectively. The variable “x” are the varying timestamps plots and “y” are the varying loaded cargo values. The variable “x ̅” and “y ̅” are the mean values of the timestamp and air cargo.
 
+After calculation of the slope of Regression line is done, the Y-intercept calculation of the Regression line is carried out. This can be done by using the equation of a straight line.
+![esl snip](https://user-images.githubusercontent.com/47980926/62995488-67a75400-be93-11e9-9101-620f5ee6e3ca.JPG)
+
+In order to first calculate the Y-intercept of the Regression line, y and x are taken to be mean values from the dependent and independent variable respectively. After the Y-intercept is calculated, the slope and Y-intercept values will be a constant in the equation of a straight line and varying independent variable values will be substituted in the equation to solve for Regression line values
+
 Programming in Python is done with the usage of NumPy, matplotlib and Pandas libraries for computing and plotting purposes. The Regression Line output is displayed through usage of Jupyter Notebook, the Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.
 
 ![Machine learning](https://user-images.githubusercontent.com/47980926/58751594-13671780-84d3-11e9-8677-05ad32e46bb2.JPG)
 
 
-Testing is done through usage of R-squared formular to determine the accuracy of Regression line.
+**Testing is done to determine the accuracy of Regression line.**
 
+The R-squared method is used to determine accuracy of Regression Line. The R-squared is a statistical measure of how close data are fitted to the Regression Line.
 ![R-squared](https://user-images.githubusercontent.com/47980926/62994782-442eda00-be90-11e9-8e01-cbdffb5e54b3.JPG)
 
 The variable “R^2” represents the R-squared value, the variable “Py” represents the plotted regression line values and the variable “y ̅” represents the calculated mean of the air cargo values.
