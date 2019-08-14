@@ -27,7 +27,7 @@ The purpose of Dashboard one would be to would be to provide analysis of large d
 
 Data displayed in Dashboard Two are artificial as datasets are obtained from developing a data generation program in Java.
 
-The purpose of Dashboard Two would be to simulate analysis of near "Real-Time" datsets. The key feature of Dashboard Two would be to provide the end user with a clear visual representation of datasets that exceed threshold limits. The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed.
+The purpose of Dashboard Two would be to simulate analysis of near "Real-Time" datsets. The key feature of Dashboard Two would be to provide the end user with a clear visual representation of datasets that have exceeded threshold limits. The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed.
 
 A usecase for Dashboard Two would be functioning as a threshold alert system as troubleshooting could be narrowed down to timestamps where datasets have exceeded the threshold values placed. 
 
@@ -43,6 +43,7 @@ Supervised Machine Learning through usage of Linear Regression Algorithm is utli
 The variable “x” and “y” represents datasets in the independent and dependent axis respectively. The variable “x” are the varying timestamps plots and “y” are the varying loaded cargo values. The variable “x ̅” and “y ̅” are the mean values of the timestamp and air cargo.
 
 After calculation of the slope of Regression line is done, the Y-intercept calculation of the Regression line is carried out. This can be done by using the equation of a straight line.
+
 ![esl snip](https://user-images.githubusercontent.com/47980926/62995488-67a75400-be93-11e9-9101-620f5ee6e3ca.JPG)
 
 In order to first calculate the Y-intercept of the Regression line, y and x are taken to be mean values from the dependent and independent variable respectively. After the Y-intercept is calculated, the slope and Y-intercept values will be a constant in the equation of a straight line and varying independent variable values will be substituted in the equation to solve for Regression line values
