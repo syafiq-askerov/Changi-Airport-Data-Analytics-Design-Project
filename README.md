@@ -61,4 +61,4 @@ The R-squared method is used to determine accuracy of Regression Line. The R-squ
 
 The variable “R^2” represents the R-squared value, the variable “Py” represents the plotted regression line values and the variable “y ̅” represents the calculated mean of the air cargo values.
 
-The R-squared value is calculated to be **0.106 or 10.6%**. This possibly could be due to the large standard deviation among the air cargo datasets that can be observed from the scattered plots 
+The R-squared value is calculated to be **0.106 or 10.6%**. This possibly could be due to the large standard deviation among the air cargo datasets that can be observed from the scattered plots.
