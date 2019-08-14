@@ -6,7 +6,7 @@ This reposistory consists of contents from Syafiq's design project.
 
 Elasticsearch, Logstash, Kibana and Jupyter Notebook are the four Open-source tools are used for this project. 
 
-Dashboard One and Dashboard Two are developed using three Open-source tools namely Elasticsearch,Logstash and Kibana(ELK Stack) for the purpose of data visualizations and analysis.
+Dashboard One and Dashboard Two are developed using three Open-source tools, the tools are namely Elasticsearch,Logstash and Kibana(ELK Stack) and they are utlised for the purpose of data visualizations and analysis.
 
 Jupyter Notebook is used as the Machine Learning tool for predictive analysis by utilising Linear Regression algorithm. 
 
