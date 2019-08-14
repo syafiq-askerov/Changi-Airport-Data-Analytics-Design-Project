@@ -56,6 +56,7 @@ Programming in Python is done with the usage of NumPy, matplotlib and Pandas lib
 **Testing is done to determine the accuracy of Regression line.**
 
 The R-squared method is used to determine accuracy of Regression Line. The R-squared is a statistical measure of how close data are fitted to the Regression Line.
+
 ![R-squared](https://user-images.githubusercontent.com/47980926/62994782-442eda00-be90-11e9-8e01-cbdffb5e54b3.JPG)
 
 The variable “R^2” represents the R-squared value, the variable “Py” represents the plotted regression line values and the variable “y ̅” represents the calculated mean of the air cargo values.
