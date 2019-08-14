@@ -36,8 +36,21 @@ A usecase for Dashboard Two would be for troubleshooting as investigations could
 
 ## Machine learning 
 
-Linear Regression Algorithm is used in Python for predictive analysis to forecast Changi Airport's 2019 air cargo loaded data based on auhentic datasets of air cargo loaded from years ranging between 2014 to 2018. Datasets of air cargo loaded from years ranging between 2014 to 2018 are obtained from data.gov.sg.
+Supervised Machine Learning through usage of Linear Regression Algorithm is utlised for predictive analysis of Changi Airport's air cargo datasets. Air cargo data in the year 2019 is forecasted based on datasets of air cargo from years ranging between 2014 to 2018. Authentic datasets of air cargo loaded from years ranging between 2014 to 2018 were obtained from data.gov.sg.
 
-The Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.The Visual below is developed by utilizing Jupyter Notebook.
+![regression lines](https://user-images.githubusercontent.com/47980926/62994977-329a0200-be91-11e9-9d74-ccb448d65aef.JPG)
+
+The variable “x” and “y” represents datasets in the independent and dependent axis respectively. The variable “x” are the varying timestamps plots and “y” are the varying loaded cargo values. The variable “x ̅” and “y ̅” are the mean values of the timestamp and air cargo.
+
+Programming in Python is done with the usage of NumPy, matplotlib and Pandas libraries for computing and plotting purposes. The Regression Line output is displayed through usage of Jupyter Notebook, the Regression line(in green) is taken as the predictive value of air cargo loaded in 2019.
 
 ![Machine learning](https://user-images.githubusercontent.com/47980926/58751594-13671780-84d3-11e9-8677-05ad32e46bb2.JPG)
+
+
+Testing is done through usage of R-squared formular to determine the accuracy of Regression line.
+
+![R-squared](https://user-images.githubusercontent.com/47980926/62994782-442eda00-be90-11e9-8e01-cbdffb5e54b3.JPG)
+
+The variable “R^2” represents the R-squared value, the variable “Py” represents the plotted regression line values and the variable “y ̅” represents the calculated mean of the air cargo values.
+
+The R-squared value is calculated to be **0.106 or 10.6%**. This possibly could be due to the large standard deviation among the air cargo datasets that can be observed from the scattered plots 
