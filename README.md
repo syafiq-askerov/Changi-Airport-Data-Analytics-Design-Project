@@ -17,7 +17,8 @@ Dashboard One portrays data analysis of Changi Airport’s passengers population
 
 **Data pipeline for Dashboard One**
 
-![dashboard One pipeline](https://user-images.githubusercontent.com/47980926/63438842-9c9d4300-c45f-11e9-9973-5e7df09771c0.JPG)
+![ascasc](https://user-images.githubusercontent.com/47980926/63439261-4b418380-c460-11e9-961c-52aa5c506ba3.JPG)
+
 
 An example of datasets source:
 https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-country-of-embarkation?resource_id=efd7b75b-992e-4221-aff3-c57140af1f67
