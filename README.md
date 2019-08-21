@@ -24,7 +24,9 @@ An example of datasets source:
 https://data.gov.sg/dataset/air-passenger-arrivals-total-by-region-and-selected-country-of-embarkation?resource_id=efd7b75b-992e-4221-aff3-c57140af1f67
 
 The purpose of Dashboard one would be to would be to provide analysis of large datasets through a simple interface. An example would be  querying for countries where air cargo loaded is above 10000kg.
+
 **Dashboard One screenshot:**
+
 ![D1 top ss](https://user-images.githubusercontent.com/47980926/58750954-fc242c00-84ca-11e9-910a-dbc580661220.JPG)
 ![Dashboard One Loaded cargo and passengers analysis](https://user-images.githubusercontent.com/47980926/58750956-047c6700-84cb-11e9-9193-35b05a26a5c9.JPG)
 
@@ -35,7 +37,9 @@ Data displayed in Dashboard Two are artificial as datasets are obtained from dev
 The purpose of Dashboard Two would be to simulate analysis of near "Real-Time" datsets. The key feature of Dashboard Two would be to provide the end user with a clear visual representation of datasets that have exceeded threshold limits. The dashboard visuals will capture datasets(in the bottom right of the image below) if certain threshold values have been surpassed.
 
 Dashboard Two could function as a threshold alert system as troubleshooting could be narrowed down to timestamps where datasets have exceeded the threshold values that are being placed.
+
 **Dashboard Two screenshot:**
+
 ![dashboard 2 top ss](https://user-images.githubusercontent.com/47980926/58751127-1232ec00-84cd-11e9-8ba7-fdcc0b526210.JPG)
 ![Dashboard Two bottom](https://user-images.githubusercontent.com/47980926/58751135-17903680-84cd-11e9-906d-88043f2aa6e2.JPG)
 
